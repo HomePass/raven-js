@@ -1,5 +1,5 @@
 /*global XDomainRequest:false*/
-'use strict';
+// 'use strict';
 
 var TraceKit = require('../vendor/TraceKit/tracekit');
 var RavenConfigError = require('./configError');
