@@ -4,7 +4,7 @@
  * Raven library, you SHOULD load this file (vs raven.js).
  **/
 
-'use strict';
+// 'use strict';
 
 var RavenConstructor = require('./raven');
 

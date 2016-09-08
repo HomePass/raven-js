@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 
 var wrapMethod = function(console, level, callback) {
     var originalConsoleLevel = console[level];

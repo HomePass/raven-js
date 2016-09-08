@@ -1,5 +1,5 @@
 /*eslint no-extra-parens:0*/
-'use strict';
+// 'use strict';
 
 var objectPrototype = Object.prototype;
 

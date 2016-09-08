@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 
 function RavenConfigError(message) {
     this.name = 'RavenConfigError';
